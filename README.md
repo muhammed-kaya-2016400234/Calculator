@@ -4,3 +4,6 @@ A simple calculator which runs in both decimal and hexadecimal mode.Full descrip
 
 HOW TO RUN:
 You can execute it with command “qmake *.pro” followed by “make”.Executable file is created in directory “release” with name “untitled.exe”.
+
+
+![calculator](https://github.com/muhammed-kaya-2016400234/Calculator/blob/master/calc.PNG)
